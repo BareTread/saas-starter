@@ -5,7 +5,7 @@ import { UserProvider } from '@/lib/auth';
 import { getUser } from '@/lib/db/queries';
 
 export const metadata: Metadata = {
-  title: 'Next.js SaaS Starter',
+  title: 'Next.js Optimizable',
   description: 'Get started quickly with Next.js, Postgres, and Stripe.',
 };
 
